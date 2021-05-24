@@ -1,0 +1,11 @@
+.post .post-card .post-img{
+width: 650px;
+height: 600px;
+}
+.top-pad .pad-text{
+    border-radius: 20px;
+    margin: 10px;
+}
+#bio{
+    resize: none;
+}
